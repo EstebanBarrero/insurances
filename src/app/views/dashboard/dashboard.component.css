@@ -1,0 +1,20 @@
+/* app.component.scss */
+.side-menu {
+  position: fixed;
+  top: 60px; /* Ajusta esto a la altura de tu encabezado */
+  left: 0;
+  bottom: 0;
+  width: 300px;
+  background-color: #f8f9fa; /*  color de fondo */
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  overflow-y: auto;
+}
+
+.side-menu .container {
+  width: 100%;
+}
+
+.side-menu button {
+  width: 100%;
+}
