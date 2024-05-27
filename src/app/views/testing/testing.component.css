@@ -75,3 +75,19 @@
   background-color: #0056b3;
 }
 
+
+
+
+/*Filas*/
+.form-group{
+  margin-bottom: 120px; /* Puedes ajustar este valor según la distancia deseada */
+}
+
+.label-bordered {
+  border: 2px solid #000; /* Cambia el color y grosor del borde según tus necesidades */
+  padding: 5px; /* Ajusta el espacio interno (padding) según tus necesidades */
+  border-radius: 4px; /* Opcional: para bordes redondeados */
+  display: inline-block; /* Asegura que el label se comporte como un elemento en línea */
+  margin-bottom: 5px; /* Ajusta el espacio inferior según sea necesario */
+}
+

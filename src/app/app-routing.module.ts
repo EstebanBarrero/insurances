@@ -9,7 +9,7 @@ import { MyDataComponent} from './views/my-data/my-data.component';
 const routes: Routes = [
   {
     path: '',
-    redirectTo: 'login', pathMatch:'full'
+    redirectTo: 'dashboard', pathMatch:'full'
   },
   {
     path:'login',
